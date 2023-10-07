@@ -58,7 +58,9 @@ If a friend talks excessively and loudly, kindly give them a friendly reminder t
 <br/>
 اگر دوستی بیش از اندازه و طولانی و با صدای بلند صحبت می‌کند، دوستانه تذکر بدهیم و توضیح بدهیم که صدای ایشان تمرکز ما را برهم می‌زند.
 </p>
-
+<h2>
+کنترل صدا در آشپزخانه
+</h2>
 <h2>Noise Control in the Kitchen</h2>
 <p>
 The question here is, what is the kitchen for? The kitchen is for eating, but not in coworking spaces. The kitchen in coworking is a place for interaction, relaxation, and dining. So, enjoy conversing with others in the kitchen. Conversation is the basis of interaction, and interaction is the reason coworking spaces exist. However, pay attention to the following:
